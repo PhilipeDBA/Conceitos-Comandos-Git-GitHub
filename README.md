@@ -1,8 +1,8 @@
-# Livro de Receitas
+# Conhecimentos sobre Git e Github
 
-Olá! Bem vindo ao meu livro de receitas.
+Será abordados conceitos e comandos utilizados no terminal do Git Bash.
 
-	.Strogonoff de frango;
-	.Pavê Chocolote;
-	.Torta de Frango;
-	.Bolo de Cenoura;
+	.Conceitos Inicias;
+	.Token de acesso pessoal;
+	.Chave SSH;
+	.Comandos terminal Git Bash;
